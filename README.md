@@ -4,3 +4,4 @@
 # This is very basic coding and use to basic html and css.
 
 # This is my first clone .
+# This is not responsive.
